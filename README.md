@@ -1,7 +1,7 @@
 
 ## Hey, I'm Alessandro
 
-Desarrollador junior full stack.
+Desarrollador software full stack.
 
 ### GITHUB STATS
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alessandro-Hacker&theme=dracula)](https://git.io/streak-stats)
