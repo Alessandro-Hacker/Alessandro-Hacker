@@ -1,44 +1,75 @@
-
 # 👋 Hey, I'm Alessandro
 
-💻 Desarrollador de Software **Full Stack Junior**  
-🚀 Apasionado por la tecnología, el desarrollo de aplicaciones web y la resolución de problemas.  
-📚 Actualmente en constante aprendizaje de nuevas tecnologías y buenas prácticas de desarrollo.
+💻 **Junior Full Stack Software Developer**  
+🚀 Apasionado por el desarrollo de software, la construcción de aplicaciones web y el aprendizaje continuo.
+
+Soy desarrollador **Full Stack Junior** con experiencia en desarrollo de sistemas web utilizando tecnologías modernas de frontend y backend. Me interesa crear aplicaciones eficientes, escalables y bien estructuradas.
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
 - 🎓 Bachiller en **Ingeniería Informática**
-- 💡 Interesado en **desarrollo web, backend y arquitectura de software**
-- 🔧 Experiencia desarrollando **aplicaciones web y sistemas empresariales**
-- 📈 Siempre buscando mejorar mis habilidades técnicas
+- 💻 Experiencia desarrollando **aplicaciones web full stack**
+- ⚙️ Trabajo con tecnologías modernas de **JavaScript / TypeScript y Java**
+- 📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo
+- 🚀 Interesado en **arquitectura de software, microservicios y cloud**
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🚀 Tech Stack
 
-### Lenguajes
+### 🧠 Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+---
+
+### 🎨 Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 
-### Backend
+---
+
+### ⚙️ Backend
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Base de Datos
+---
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Otros
+---
+
+### 🧩 ORM / Database Tools
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
+
+---
+
+### 🛠 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+También he trabajado con tecnologías y protocolos como:
+
 - MQTT
 - Modbus
 - OPC UA
-- Git
-- Docker
+- WebSockets
+- REST APIs
 
 ---
 
@@ -52,34 +83,34 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-🔹 **Sistema de Inventario Web**  
-Aplicación para gestión de inventarios con base de datos y control de stock.
+### 📦 Inventory Management System
+Sistema web para gestión de inventarios con control de stock y base de datos relacional.
 
-🔹 **Aplicaciones Web Industriales**  
-Desarrollo de sistemas conectados a protocolos industriales como **MQTT y Modbus**.
+### 🌐 Full Stack Web Applications
+Aplicaciones web desarrolladas con **Angular / Vue / Nuxt** en frontend y **Node.js o Spring Boot** en backend.
 
-🔹 **Aplicaciones Web Full Stack**  
-Frontend con **Angular / Vue** y backend con **Node.js**.
+### 🏭 Industrial Systems Integration
+Desarrollo de aplicaciones conectadas a protocolos industriales como **MQTT y Modbus**.
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Currently Learning
+
+Actualmente sigo profundizando en:
 
 - Arquitectura de software
 - Microservicios
 - Docker
-
+- Java
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-📧 Email: tu-email  
-💼 LinkedIn: tu-linkedin  
+💼 LinkedIn: 
+📧 Email: 
 🌎 Portafolio:
-
 ---
 
 ⭐ Siempre abierto a colaborar en proyectos y aprender nuevas tecnologías.
-
